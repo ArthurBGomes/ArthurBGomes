@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Informática do IFRN<br>- Full Stack<br>- Estudando tudo e mais um pouco </p>
+<p align="left">- Estudante de Informática do IFRN<br>- BackEnd <br>- Estudando tudo e mais um pouco </p>
 
 ###
 
